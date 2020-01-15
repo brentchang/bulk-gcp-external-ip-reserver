@@ -12,5 +12,6 @@ shell script to reserve Google Cloud Platform static external IPs.
 ```bash
 $ git clone https://github.com/brentchang/bulk-gcp-external-ip-reserver.git
 $ cd bulk-gcp-external-ip-reserver
+$ chmod +x ext_ip.sh
 $ ./ext_ip.sh
 ```
