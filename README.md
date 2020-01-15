@@ -6,7 +6,7 @@ shell script to reserve Google Cloud Platform static external IPs.
 
 1.Already authenticated Google Cloud SDK \
 2.Project ID have been set through `gcloud config set project` \
-3.Authencated account/service account with IAM permissions to reserve static external IP.\
+3.Authencated account/service account with IAM permissions to reserve static external IP.
 
 ## Usage
 ```bash
